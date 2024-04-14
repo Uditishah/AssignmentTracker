@@ -1,0 +1,3 @@
+interface Assignable {
+    void displayDetails();
+}
